@@ -1,7 +1,7 @@
 # Hi there 👋, I'm PARTH KHAJGIWALE 👩🏻‍💻
 - 🎓 Computer Engineering undergraduate student at International Institute of Information Technology, Pune
 - 🚀 Passionate about technology and driven to learn more every day
-- 💡 Strong foundation in Python, C++, FullStack Web Development, Data Structures, AI/ML, and Blockchain technology
+- 💡 Strong foundation in Python, C++,  Web Development, Data Structures, Machine Learning
 -  🌐 Equipped to tackle a variety of technical challenges
 - ✍️ Blogger who writes about technology on Medium and thoughtsofnerd.blogspot.com
 - 📚 Sharing knowledge and insights with others to stay up-to-date with the latest trends and developments in the field
